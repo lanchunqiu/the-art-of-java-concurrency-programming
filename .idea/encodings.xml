@@ -39,6 +39,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ThreadState.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter04/WaitNotify.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter05" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter05/Mutex.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter05/ProcessData.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter06" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter07" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter08" charset="GBK" />
