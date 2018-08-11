@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter01" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter01/ConcurrencyTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter01/DeadLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter02" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter02/Counter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/DoubleCheckedLocking.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/FinalExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/FinalReferenceEscapeExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/FinalReferenceExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/InstanceFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/MonitorExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/ReentrantLockExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/ReorderExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/SafeDoubleCheckedLocking.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/SynchronizedExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/UnsafeLazyInitialization.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/VolatileBarrierExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/VolatileExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter03/VolatileFeaturesExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ConnectionDriver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ConnectionPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ConnectionPoolTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/DefaultThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Deprecated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Interrupted.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Join.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/MultiThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Piped.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Profiler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Shutdown.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/SimpleHttpServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/Synchronized.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/ThreadState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter04/WaitNotify.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter05" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter06" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter07" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter08" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter10" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/chapter11" charset="GBK" />
+  </component>
+</project>
